@@ -50,4 +50,3 @@ Goldenwest Credit Union Ogden, Utah, USA
 - Teamwork and Delegation
 - Attention to Detail
 - Initiative
- 

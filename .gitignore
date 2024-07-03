@@ -1,2 +1,5 @@
 # Ignore .docx files
 *.docx
+
+# Ignore .tmp files
+*.tmp
