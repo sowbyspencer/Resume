@@ -3,7 +3,7 @@ sowbyspencer@gmail.com | https://www.linkedin.com/in/spencer-sowby | +1 (385) 36
 
 ## Education
 ### BS, Software Engineering, GPA: 3.92 July 2025 
-Brigham Young University–Idaho Rexburg, Idaho, U.S.A.
+Brigham Young University–Idaho Rexburg, Idaho USA
 - Determined software quality using software design metrics
 - Practiced project management principles
 - Designed and implemented algorithms using Python, HTML/CSS, Java, and JavaScript
@@ -13,14 +13,14 @@ Brigham Young University–Idaho Rexburg, Idaho, U.S.A.
 - Designed programs to solve problems using a systematic problem-solving approach
 - Identified various test cases for software
 ### AS, General Technology (Honors) Aug. 2020
-Weber State University Ogden, Utah U.S.A.
+Weber State University Ogden, Utah USA
 - Used Object Oriented Practices such as inheritance and scope management.
 - Communicated in a team for teamwork & collaboration
 - Learned basic computer networking concepts such as the OSI model
 - Wrote programs using custom data structures and recursion
 - Utilized comparison, perspective, and persuasion to enhance writing composition
 ### Cert, Software Development Aug. 2018
-Ogden-Weber Technical College Ogden, Utah U.S.A.
+Ogden-Weber Technical College Ogden, Utah USA
 - Solved complex problems using a systematic approach
 - Wrote software user & testing documentation
 - Used introductory understanding of Git version control to host and update projects
@@ -28,7 +28,7 @@ Ogden-Weber Technical College Ogden, Utah U.S.A.
 
 ## Experience
 ### Tech Support Specialist Apr. 2019 – July 2023
-Weber School District Ogden, Utah, USA
+Weber School District Ogden, Utah USA
 - Coordinated deployment of hundreds of devices in a time-effective manner
 - Troubleshot hardware and software behavior
 - Self-managed workloads and projects with and without teams
@@ -36,7 +36,7 @@ Weber School District Ogden, Utah, USA
 - Communicated needs and concerns between end 
 users and policymakers
 ### Data Analyst Sep. 2017 – Apr. 2019
-Goldenwest Credit Union Ogden, Utah, USA
+Goldenwest Credit Union Ogden, Utah USA
 - Implemented data storage and processing automation
 - Constructed various actionable reports with different requirements
 - Aggregated and organized data to be easily viewed
