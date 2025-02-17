@@ -3,3 +3,6 @@
 
 # Ignore .tmp files
 *.tmp
+
+# Ignore the "Alt" Folder
+Alt/

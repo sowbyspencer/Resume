@@ -1,6 +1,6 @@
 # Spencer Sowby
 
-sowbyspencer@gmail.com | https://www.linkedin.com/in/spencer-sowby | +1 (385) 368-6219
+sowbyspencer@gmail.com | https://www.linkedin.com/in/spencer-sowby | ###-###-###
 
 ## Education
 
@@ -8,30 +8,28 @@ sowbyspencer@gmail.com | https://www.linkedin.com/in/spencer-sowby | +1 (385) 36
 
 Brigham Young University–Idaho Rexburg, Idaho USA
 
-- Determined software quality employing software design metrics
-- Practiced project management principles
-- Designed and implemented algorithms with Python, HTML/CSS, Java, and JavaScript
-- Utilized Python in conjunction with HTML to display results
-- Built a website using the MVC pattern
-- Converted software requirements into code
-- Designed programs to solve problems by employing a systematic problem-solving approach
-- Identified various test cases for software
+- Built a full-stack data-driven car dealer website using the MVC pattern, Node.js, HTML and CSS, and JavaScript
+- Developed a Spotify Metrics Dashboard, using Python, HTML, and CSS to analyze, and display user listening habits
+- Added automation tests to a production pipeline using Postman
+- Was a Project Manager for a class, applying SCRUM methodologies to organize sprints and deliverables
+- Increased code quality through code reviews
+- Designed and implemented algorithms with Python, Java, JavaScript, TypeScript, and C++
+- Integrated the ArcGIS API in conjunction with JavaScript to create an Isochrone Map website
+- Employed Figma to prototype an app in order to collect user requirements for a Senior Project
 
 ### AS, General Technology (Honors) Aug. 2020
 
 Weber State University Ogden, Utah USA
 
 - Used Object Oriented Practices such as inheritance and scope management
-- Communicated in a team for teamwork & collaboration
-- Learned basic computer networking concepts such as the OSI model
 - Coded programs using custom data structures and recursion
-- Leveraged comparison, perspective, and persuasion to enhance writing composition
+- Completed team projects through collaboration
+- Enhanced writing composition through comparison, perspective, and persuasion
 
 ### Cert, Software Development Aug. 2018
 
 Ogden-Weber Technical College Ogden, Utah USA
 
-- Solved complex problems using a systematic approach
 - Wrote software user & testing documentation
 - Used introductory understanding of Git version control to host and update projects
 - Built scripts for checking user access rights for a set of folders
@@ -42,26 +40,36 @@ Ogden-Weber Technical College Ogden, Utah USA
 
 Weber School District Ogden, Utah USA
 
-- Coordinated deployment of hundreds of devices in a time-effective manner
-- Troubleshot various hardware and software issues on various hardware and operating systems
+- Coordinated deployment of 300+ devices in a time-restrictive window of one day
+- Troubleshot hardware and software issues on desktops, Chromebooks, printers, projectors, and other peripherals
+- Communicated needs and concerns of dozens of end users to policymakers by collecting and consolidating feedback
 - Self-managed workloads and projects in teams of 1-10 members
 - Managed and resolved help requests for 3+ locations for users with different roles
-- Communicated needs and concerns between dozens of end users and policymakers
+- Communicated needs and concerns of dozens of end users to policymakers by collecting and consolidating feedback
 
 ### Data Analyst Sep. 2017 – Apr. 2019
 
 Goldenwest Credit Union Ogden, Utah USA
 
+- Initialized branch manager key indicators report system using SQL subqueries, joins, unions, and aggregate functions
 - Implemented data storage and processing automation with Visual Basic
+- Compiled raw data from hundreds of text files to be easily viewed for promotions and marketing campaigns
 - Constructed various actionable reports with different requirements daily
-- Compiled and organized raw text data from hundreds of files to be easily viewed
-- Initialized key indicators report system for managers using SQL
 
 ## Skills
 
-- Critical Thinking/Problem Solving
-- Introductory use of C#, Java, Python
-- Digital Technology Adaptability
-- Professional Accountability
-- Teamwork and Delegation
+**Technical Skills**
+
+- Programming: JavaScript, Python, Node.js, HTML, CSS, SQL
+- Frameworks & Patterns: MVC Pattern
+- Development Tools: Figma, Postman
+- Software Development: SDLC, Agile, Scrum
+- Introductory Experience: Java, C++, TypeScript
+
+**Soft Skills**
+
+- Critical Thinking & Problem Solving
+- Teamwork & Delegation
+- Time Management
 - Attention to Detail
+- Digital Technology Adaptability
