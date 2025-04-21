@@ -4,7 +4,7 @@ sowbyspencer@gmail.com | https://www.linkedin.com/in/spencer-sowby | ###-###-###
 
 ## Education
 
-### BS, Software Engineering, GPA: 3.94 July 2025
+### BS, Software Engineering, GPA: 3.93 July 2025
 
 Brigham Young University–Idaho Rexburg, Idaho USA
 
